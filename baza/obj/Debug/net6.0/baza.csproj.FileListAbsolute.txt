@@ -1,0 +1,15 @@
+C:\Users\еурккврв\Desktop\git\baza\bin\Debug\net6.0\baza.exe
+C:\Users\еурккврв\Desktop\git\baza\bin\Debug\net6.0\baza.deps.json
+C:\Users\еурккврв\Desktop\git\baza\bin\Debug\net6.0\baza.runtimeconfig.json
+C:\Users\еурккврв\Desktop\git\baza\bin\Debug\net6.0\baza.dll
+C:\Users\еурккврв\Desktop\git\baza\bin\Debug\net6.0\baza.pdb
+C:\Users\еурккврв\Desktop\git\baza\obj\Debug\net6.0\baza.csproj.AssemblyReference.cache
+C:\Users\еурккврв\Desktop\git\baza\obj\Debug\net6.0\baza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\еурккврв\Desktop\git\baza\obj\Debug\net6.0\baza.AssemblyInfoInputs.cache
+C:\Users\еурккврв\Desktop\git\baza\obj\Debug\net6.0\baza.AssemblyInfo.cs
+C:\Users\еурккврв\Desktop\git\baza\obj\Debug\net6.0\baza.csproj.CoreCompileInputs.cache
+C:\Users\еурккврв\Desktop\git\baza\obj\Debug\net6.0\baza.dll
+C:\Users\еурккврв\Desktop\git\baza\obj\Debug\net6.0\refint\baza.dll
+C:\Users\еурккврв\Desktop\git\baza\obj\Debug\net6.0\baza.pdb
+C:\Users\еурккврв\Desktop\git\baza\obj\Debug\net6.0\baza.genruntimeconfig.cache
+C:\Users\еурккврв\Desktop\git\baza\obj\Debug\net6.0\ref\baza.dll

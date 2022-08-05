@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int a,b;
+Console.WriteLine("введите числа: ");
+a = Convert.ToInt32(Console.ReadLine());
+b = Convert.ToInt32(Console.ReadLine());
+if(a>b)
+{
+    Console.WriteLine("{0} наибольшее число",a);
+}
+else
+{
+        Console.WriteLine("{0} наибольшее число",b);
+
+}
+Console.ReadLine();
