@@ -7,4 +7,4 @@ if(a % b == 0){
 }
 else{
     Console.WriteLine($"число не кртно 1,остаток от деления {0} ");   
-}  falseо
+} 
