@@ -1,0 +1,15 @@
+C:\Users\еурккврв\Desktop\git\zadanie19\bin\Debug\net6.0\zadanie19.exe
+C:\Users\еурккврв\Desktop\git\zadanie19\bin\Debug\net6.0\zadanie19.deps.json
+C:\Users\еурккврв\Desktop\git\zadanie19\bin\Debug\net6.0\zadanie19.runtimeconfig.json
+C:\Users\еурккврв\Desktop\git\zadanie19\bin\Debug\net6.0\zadanie19.dll
+C:\Users\еурккврв\Desktop\git\zadanie19\bin\Debug\net6.0\zadanie19.pdb
+C:\Users\еурккврв\Desktop\git\zadanie19\obj\Debug\net6.0\zadanie19.csproj.AssemblyReference.cache
+C:\Users\еурккврв\Desktop\git\zadanie19\obj\Debug\net6.0\zadanie19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\еурккврв\Desktop\git\zadanie19\obj\Debug\net6.0\zadanie19.AssemblyInfoInputs.cache
+C:\Users\еурккврв\Desktop\git\zadanie19\obj\Debug\net6.0\zadanie19.AssemblyInfo.cs
+C:\Users\еурккврв\Desktop\git\zadanie19\obj\Debug\net6.0\zadanie19.csproj.CoreCompileInputs.cache
+C:\Users\еурккврв\Desktop\git\zadanie19\obj\Debug\net6.0\zadanie19.dll
+C:\Users\еурккврв\Desktop\git\zadanie19\obj\Debug\net6.0\refint\zadanie19.dll
+C:\Users\еурккврв\Desktop\git\zadanie19\obj\Debug\net6.0\zadanie19.pdb
+C:\Users\еурккврв\Desktop\git\zadanie19\obj\Debug\net6.0\zadanie19.genruntimeconfig.cache
+C:\Users\еурккврв\Desktop\git\zadanie19\obj\Debug\net6.0\ref\zadanie19.dll
