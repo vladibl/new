@@ -1,0 +1,15 @@
+C:\Users\еурккврв\Desktop\git\zadanie25\bin\Debug\net6.0\zadanie25.exe
+C:\Users\еурккврв\Desktop\git\zadanie25\bin\Debug\net6.0\zadanie25.deps.json
+C:\Users\еурккврв\Desktop\git\zadanie25\bin\Debug\net6.0\zadanie25.runtimeconfig.json
+C:\Users\еурккврв\Desktop\git\zadanie25\bin\Debug\net6.0\zadanie25.dll
+C:\Users\еурккврв\Desktop\git\zadanie25\bin\Debug\net6.0\zadanie25.pdb
+C:\Users\еурккврв\Desktop\git\zadanie25\obj\Debug\net6.0\zadanie25.csproj.AssemblyReference.cache
+C:\Users\еурккврв\Desktop\git\zadanie25\obj\Debug\net6.0\zadanie25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\еурккврв\Desktop\git\zadanie25\obj\Debug\net6.0\zadanie25.AssemblyInfoInputs.cache
+C:\Users\еурккврв\Desktop\git\zadanie25\obj\Debug\net6.0\zadanie25.AssemblyInfo.cs
+C:\Users\еурккврв\Desktop\git\zadanie25\obj\Debug\net6.0\zadanie25.csproj.CoreCompileInputs.cache
+C:\Users\еурккврв\Desktop\git\zadanie25\obj\Debug\net6.0\zadanie25.dll
+C:\Users\еурккврв\Desktop\git\zadanie25\obj\Debug\net6.0\refint\zadanie25.dll
+C:\Users\еурккврв\Desktop\git\zadanie25\obj\Debug\net6.0\zadanie25.pdb
+C:\Users\еурккврв\Desktop\git\zadanie25\obj\Debug\net6.0\zadanie25.genruntimeconfig.cache
+C:\Users\еурккврв\Desktop\git\zadanie25\obj\Debug\net6.0\ref\zadanie25.dll
