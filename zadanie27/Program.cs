@@ -1,15 +1,15 @@
 ﻿Console.WriteLine("введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-int DigitCount(int a)
+int DigitCount(int num)
 {
     int result = 0;
 
-    result = a % 10;
-    a = a / 10;
-    if (a > 0)
+    result = num % 10;
+    num = num / 10;
+    if (num > 0)
     {
-        result = result + DigitCount(a);
+        result = result + DigitCount(num);
     }
     return result;
 }
