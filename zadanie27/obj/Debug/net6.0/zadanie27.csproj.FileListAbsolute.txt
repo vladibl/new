@@ -1,0 +1,15 @@
+C:\Users\еурккврв\Desktop\git\zadanie27\obj\Debug\net6.0\zadanie27.csproj.AssemblyReference.cache
+C:\Users\еурккврв\Desktop\git\zadanie27\obj\Debug\net6.0\zadanie27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\еурккврв\Desktop\git\zadanie27\obj\Debug\net6.0\zadanie27.AssemblyInfoInputs.cache
+C:\Users\еурккврв\Desktop\git\zadanie27\obj\Debug\net6.0\zadanie27.AssemblyInfo.cs
+C:\Users\еурккврв\Desktop\git\zadanie27\obj\Debug\net6.0\zadanie27.csproj.CoreCompileInputs.cache
+C:\Users\еурккврв\Desktop\git\zadanie27\bin\Debug\net6.0\zadanie27.exe
+C:\Users\еурккврв\Desktop\git\zadanie27\bin\Debug\net6.0\zadanie27.deps.json
+C:\Users\еурккврв\Desktop\git\zadanie27\bin\Debug\net6.0\zadanie27.runtimeconfig.json
+C:\Users\еурккврв\Desktop\git\zadanie27\bin\Debug\net6.0\zadanie27.dll
+C:\Users\еурккврв\Desktop\git\zadanie27\bin\Debug\net6.0\zadanie27.pdb
+C:\Users\еурккврв\Desktop\git\zadanie27\obj\Debug\net6.0\zadanie27.dll
+C:\Users\еурккврв\Desktop\git\zadanie27\obj\Debug\net6.0\refint\zadanie27.dll
+C:\Users\еурккврв\Desktop\git\zadanie27\obj\Debug\net6.0\zadanie27.pdb
+C:\Users\еурккврв\Desktop\git\zadanie27\obj\Debug\net6.0\zadanie27.genruntimeconfig.cache
+C:\Users\еурккврв\Desktop\git\zadanie27\obj\Debug\net6.0\ref\zadanie27.dll
