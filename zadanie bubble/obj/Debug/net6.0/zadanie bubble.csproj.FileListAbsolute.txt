@@ -1,0 +1,15 @@
+C:\Users\еурккврв\Desktop\git\zadanie bubble\bin\Debug\net6.0\zadanie bubble.exe
+C:\Users\еурккврв\Desktop\git\zadanie bubble\bin\Debug\net6.0\zadanie bubble.deps.json
+C:\Users\еурккврв\Desktop\git\zadanie bubble\bin\Debug\net6.0\zadanie bubble.runtimeconfig.json
+C:\Users\еурккврв\Desktop\git\zadanie bubble\bin\Debug\net6.0\zadanie bubble.dll
+C:\Users\еурккврв\Desktop\git\zadanie bubble\bin\Debug\net6.0\zadanie bubble.pdb
+C:\Users\еурккврв\Desktop\git\zadanie bubble\obj\Debug\net6.0\zadanie bubble.csproj.AssemblyReference.cache
+C:\Users\еурккврв\Desktop\git\zadanie bubble\obj\Debug\net6.0\zadanie bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\еурккврв\Desktop\git\zadanie bubble\obj\Debug\net6.0\zadanie bubble.AssemblyInfoInputs.cache
+C:\Users\еурккврв\Desktop\git\zadanie bubble\obj\Debug\net6.0\zadanie bubble.AssemblyInfo.cs
+C:\Users\еурккврв\Desktop\git\zadanie bubble\obj\Debug\net6.0\zadanie bubble.csproj.CoreCompileInputs.cache
+C:\Users\еурккврв\Desktop\git\zadanie bubble\obj\Debug\net6.0\zadanie bubble.dll
+C:\Users\еурккврв\Desktop\git\zadanie bubble\obj\Debug\net6.0\refint\zadanie bubble.dll
+C:\Users\еурккврв\Desktop\git\zadanie bubble\obj\Debug\net6.0\zadanie bubble.pdb
+C:\Users\еурккврв\Desktop\git\zadanie bubble\obj\Debug\net6.0\zadanie bubble.genruntimeconfig.cache
+C:\Users\еурккврв\Desktop\git\zadanie bubble\obj\Debug\net6.0\ref\zadanie bubble.dll
