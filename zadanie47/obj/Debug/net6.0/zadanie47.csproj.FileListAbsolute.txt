@@ -1,0 +1,15 @@
+C:\Users\еурккврв\Desktop\git\zadanie47\bin\Debug\net6.0\zadanie47.exe
+C:\Users\еурккврв\Desktop\git\zadanie47\bin\Debug\net6.0\zadanie47.deps.json
+C:\Users\еурккврв\Desktop\git\zadanie47\bin\Debug\net6.0\zadanie47.runtimeconfig.json
+C:\Users\еурккврв\Desktop\git\zadanie47\bin\Debug\net6.0\zadanie47.dll
+C:\Users\еурккврв\Desktop\git\zadanie47\bin\Debug\net6.0\zadanie47.pdb
+C:\Users\еурккврв\Desktop\git\zadanie47\obj\Debug\net6.0\zadanie47.csproj.AssemblyReference.cache
+C:\Users\еурккврв\Desktop\git\zadanie47\obj\Debug\net6.0\zadanie47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\еурккврв\Desktop\git\zadanie47\obj\Debug\net6.0\zadanie47.AssemblyInfoInputs.cache
+C:\Users\еурккврв\Desktop\git\zadanie47\obj\Debug\net6.0\zadanie47.AssemblyInfo.cs
+C:\Users\еурккврв\Desktop\git\zadanie47\obj\Debug\net6.0\zadanie47.csproj.CoreCompileInputs.cache
+C:\Users\еурккврв\Desktop\git\zadanie47\obj\Debug\net6.0\zadanie47.dll
+C:\Users\еурккврв\Desktop\git\zadanie47\obj\Debug\net6.0\refint\zadanie47.dll
+C:\Users\еурккврв\Desktop\git\zadanie47\obj\Debug\net6.0\zadanie47.pdb
+C:\Users\еурккврв\Desktop\git\zadanie47\obj\Debug\net6.0\zadanie47.genruntimeconfig.cache
+C:\Users\еурккврв\Desktop\git\zadanie47\obj\Debug\net6.0\ref\zadanie47.dll
