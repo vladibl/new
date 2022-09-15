@@ -1,0 +1,15 @@
+C:\Users\еурккврв\Desktop\git\Проверочная работа\obj\Debug\net6.0\Проверочная работа.csproj.AssemblyReference.cache
+C:\Users\еурккврв\Desktop\git\Проверочная работа\obj\Debug\net6.0\Проверочная работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\еурккврв\Desktop\git\Проверочная работа\obj\Debug\net6.0\Проверочная работа.AssemblyInfoInputs.cache
+C:\Users\еурккврв\Desktop\git\Проверочная работа\obj\Debug\net6.0\Проверочная работа.AssemblyInfo.cs
+C:\Users\еурккврв\Desktop\git\Проверочная работа\obj\Debug\net6.0\Проверочная работа.csproj.CoreCompileInputs.cache
+C:\Users\еурккврв\Desktop\git\Проверочная работа\bin\Debug\net6.0\Проверочная работа.exe
+C:\Users\еурккврв\Desktop\git\Проверочная работа\bin\Debug\net6.0\Проверочная работа.deps.json
+C:\Users\еурккврв\Desktop\git\Проверочная работа\bin\Debug\net6.0\Проверочная работа.runtimeconfig.json
+C:\Users\еурккврв\Desktop\git\Проверочная работа\bin\Debug\net6.0\Проверочная работа.dll
+C:\Users\еурккврв\Desktop\git\Проверочная работа\bin\Debug\net6.0\Проверочная работа.pdb
+C:\Users\еурккврв\Desktop\git\Проверочная работа\obj\Debug\net6.0\Проверочная работа.dll
+C:\Users\еурккврв\Desktop\git\Проверочная работа\obj\Debug\net6.0\refint\Проверочная работа.dll
+C:\Users\еурккврв\Desktop\git\Проверочная работа\obj\Debug\net6.0\Проверочная работа.pdb
+C:\Users\еурккврв\Desktop\git\Проверочная работа\obj\Debug\net6.0\Проверочная работа.genruntimeconfig.cache
+C:\Users\еурккврв\Desktop\git\Проверочная работа\obj\Debug\net6.0\ref\Проверочная работа.dll
