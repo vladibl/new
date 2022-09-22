@@ -14,12 +14,12 @@ int findMin(int[] array)
     return min;
 }
 
-int findMax(int[] arr)
+int findMax(int[] a)
 {
 
 
     int max = int.MinValue;
-    foreach (var i in arr)
+    foreach (var i in a)
     {
         if (i > max)
         {
@@ -42,11 +42,11 @@ int[] GetArray(int size, int minValue, int maxValue)
 
 
 
-int[] array = GetArray(5, -99 , -1);
-Console.WriteLine(string.Join(" ", array));
+int[] res = GetArray(5, -99 , -1);
+Console.WriteLine(string.Join(" ", res));
 
 
-Console.WriteLine(findMax(array) - findMin(array));
+Console.WriteLine(findMax(res) - findMin(res));
 
 
 

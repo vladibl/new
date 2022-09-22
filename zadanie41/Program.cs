@@ -9,17 +9,11 @@ for (int i = 0; i < array.Length; i++)
     array[i] = Convert.ToInt32(Console.ReadLine());
 
 }
+int Count = 0;
 
-int Comparison(int[] array)
-{
-    int count = 0;
-    for (int i = 0; i < array.Length; i++)
-    {
-        if (array[i] > 0) count += 1;
-    }
-    return count;
+for (int i = 0; i < array.Length; i++)
+{ 
+if (array[i] > 0) Count ++;
 }
 
-
-
-Console.WriteLine($"Введено чисел больше 0: {Comparison(array)} ");
+Console.WriteLine($"{Count}  ");

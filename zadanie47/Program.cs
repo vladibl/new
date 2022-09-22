@@ -10,7 +10,7 @@ double[,] GetArray(int m, int n)
 
     for (int i = 0; i < m; i++)
         for (int j = 0; j < n; j++)
-            result[i, j] = new Random().NextDouble() * 20 - 10;
+            result[i, j] = new Random().NextDouble() * -10 + 1;
 
 
 
