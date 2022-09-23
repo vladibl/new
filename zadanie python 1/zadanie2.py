@@ -2,5 +2,5 @@
 #показывать первую цифру дробной части числа.
 
 Number = float(input("Ведите дробное число : "))
-d = float((Number*10) % 10)
-print("%.0f" % d) 
+d = int((Number*10) % 10)
+print(round (d, 2))
