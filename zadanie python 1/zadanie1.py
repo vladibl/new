@@ -3,7 +3,7 @@
 
 
 Number = int(input("введите день недели от 1-7: "))
-if Number <= 5  or Number > 7:
+if Number <= 5:
     print(f" {Number}  Будний день")
 else:
     print(f"  {Number}  Выходной день") 
