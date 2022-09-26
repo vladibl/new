@@ -7,8 +7,8 @@ a = input("Введите число: ")
 
 suma = 0
 
-for digit in a:
-    suma += int(digit)
+for i in a:
+    suma += int(i)
 
 print("Сумма:", suma)
 
