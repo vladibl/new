@@ -1,4 +1,3 @@
-# юда все функции отправляющие сообщения
 
 
 from aiogram import types
