@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class Laptop {
+public class homework6 {
     private String name;
     private int price;
     private String processor;
