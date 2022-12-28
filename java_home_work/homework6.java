@@ -16,7 +16,6 @@ public class homework6 {
         this.color = color;
         this.ram = ram;
     }
-
     public void printInfo(int userRam, String userColor) {
         if (ram >= userRam && (color.equals(userColor) | userColor == "")){
             System.out.printf("У ноутбука %s цена: %s, процессор: %s, цвет: %s, размер оперативной памяти: %s%n", name, price, processor, color, ram);
@@ -29,3 +28,5 @@ public class homework6 {
         return String.format("У ноутбука %s цена: %s, процессор: %s, цвет: %s, размер оперативной памяти: %s", name, price, processor, color, ram);
     }
 }
+
+//v
