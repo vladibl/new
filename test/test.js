@@ -6,7 +6,7 @@ fixture `Example page`
 
     test('Emulate user actions and perform a verification', async t => {
         await t.setNativeDialogHandler(() => true);
-        const inputNewTodo = await querySelector('header.header input.new-todo');
+        const inputNewTodo = await querySelector('new-todo');
         await t.typeText(inputNewTodo, 'New TODO element\r\n');
     
         const addedTodoElement = await querySelectorCondition(
