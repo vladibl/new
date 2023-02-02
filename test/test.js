@@ -13,7 +13,7 @@ fixture `Example page`
 //убрали галочку с отмеченного запросы
        const addedTodoCheckboxAC =('body > section > section > ul > li > div > input')
         await t.click(addedTodoCheckboxAC)
-//двойеное нажатие на запрос
+//однократное нажите на запрос
        const addedTodoEditInput=('body > section > section > ul > li:nth-child(1) > div > label')
        await t.click(addedTodoEditInput)
 
