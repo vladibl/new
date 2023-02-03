@@ -1,27 +1,51 @@
-import { Selector } from 'testcafe';
-    
-fixture `Example page`
-        .page `https://todomvc.com/examples/typescript-backbone/`;
-//ввели запрос
-        test('Emulate user actions and perform a verification', async t => {
-        const inputNewTodo = ('body > section > header > div > input')
-        await t.typeText(inputNewTodo,'Peter Parker\r\n')
-//отметили галочкой все запросы
-        const addedTodoElement =('body > section > section > label') 
-        await t.click (addedTodoElement)
-       
-//убрали галочку с отмеченного запросы
-       const addedTodoCheckboxAC =('body > section > section > ul > li > div > input')
-        await t.click(addedTodoCheckboxAC)
-//однократное нажите на запрос
-       const addedTodoEditInput=('body > section > section > ul > li:nth-child(1) > div > label')
-       await t.click(addedTodoEditInput)
+import { Selector, t } from 'testcafe';
 
-      //удаляем запрос
-      const addedTodoDelBtn = (
-        'button.destroy')
-        await t.click(addedTodoDelBtn);
-        (elm) => (elm.previousSibling.innerText === 'New TODO element changed')
-        
-         
+fixture(`Тестирование Todo list`)
+    .page('https://todomvc.com/examples/typescript-backbone/');
+
+
+test('Добавление задачи "Проверить MR 42"', async t => {
+    const inputNewTodoNumberOne = ('div > input ')
+    await t.typeText(inputNewTodoNumberOne,'Peter Parker\r\n')
+
+});
+
+test('Добавление задачи "Проверить возможность добавления очень длинного имени, которое не должно поместиться в одну строку"', async t => {
+    
+    const inputNewTodoNumberTwo = ('div > input ')
+    await t.typeText(inputNewTodoNumberTwo,'Peter ParkerPeter ParkerPeter ParkerPeter Parker\r\n')
+
+
+});
+
+test('Проверить отметку выполненной одной задачи', async t => {
+    const inputNewTodoNumberOne = ('div > input ')
+    await t.typeText(inputNewTodoNumberOne,'Peter Parker\r\n')
+    const addedTodoElement = ('li input ')
+    await t.click (addedTodoElement)
+});
+
+
+test('Добавить 3 задачи и отметить их выполненными все разом (одним кликом)', async t => {
+    const inputNewTodoNumberThree = ('div > input ')
+    await t.typeText(inputNewTodoNumberThree,'Peter Parker\r\n')
+    await t.typeText(inputNewTodoNumberThree,'Harry Potter\r\n')
+    await t.typeText(inputNewTodoNumberThree,'Draco Malfoy\r\n')
+    const addedTodoWin = ('body > section > section > ul > li:nth-child(1) > div > button')
+    await t.click (addedTodoWin)
+
+
+});
+
+test('Добавить 3 задачи и по очереди удалить', async t => {
+    const inputNewTodoNumberThree = ('div > input ')
+    await t.typeText(inputNewTodoNumberThree,'Peter Parker\r\n')
+    await t.typeText(inputNewTodoNumberThree,'Harry Potter\r\n')
+    await t.typeText(inputNewTodoNumberThree,'Draco Malfoy\r\n')
+    
+
+
+
+
+
 });
